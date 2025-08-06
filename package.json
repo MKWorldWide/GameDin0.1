@@ -1,5 +1,6 @@
 {
   "name": "gamedin-genesis",
+  "homepage": "https://mkworldwide.github.io/GameDinGenesis",
   "private": true,
   "version": "0.1.0",
   "type": "module",
