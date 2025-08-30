@@ -1,0 +1,20 @@
+# <type>(<scope>): <subject>
+# [optional body]
+# [optional footer(s)]
+
+type: build, chore, ci, docs, feat, fix, perf, refactor, revert, style, test
+scope: (optional) the component or area being modified
+example: feat(auth): add login functionality
+
+# Remember to keep the subject line concise and under 72 characters.
+# Use the body to explain what and why, not how.
+# Reference issues and pull requests at the end of the description.
+#
+# Example:
+#
+# feat(auth): add login functionality
+#
+# Add login form with email/password authentication.
+# Include form validation and error handling.
+#
+# Closes #123
